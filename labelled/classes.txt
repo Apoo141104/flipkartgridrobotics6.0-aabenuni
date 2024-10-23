@@ -1,0 +1,30 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+quantity
+name_product
+ingredints
+nutritional_information
+ingredients
+expiry_details
+tropicana_125ml
+tropicana_180ml_mixedfruit
+tropicana_125ml_mixedfruit
+price_quantity
+tropicana_180ml_pomegranatedelight
+pepsi_400ml
+pepsi_1l
+pepsi_2.25l
+rajbhog_makhana
