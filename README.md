@@ -56,9 +56,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-###🧪 Usage
+### 🧪 Usage
 
-###🔍 Brand and Product Classification
+### 🔍 Brand and Product Classification
 1. **Launch the Jupyter Notebook**:
 ```bash
 jupyter notebook brandandproductclassification.ipynb
@@ -67,19 +67,19 @@ jupyter notebook brandandproductclassification.ipynb
 Load and preprocess the dataset.
 Train the classification model.
 Evaluate the model's performance.
-##📝 Optical Character Recognition (OCR)
+### 📝 Optical Character Recognition (OCR)
 **Run the OCR script using**:
 ```bash
 python ocr.py
 ```
 This will process test_image.jpg and output the extracted text.
 
-##🍏 Fruit Quality Prediction Model
+### 🍏 Fruit Quality Prediction Model
 **Launch the Jupyter Notebook for fruit quality prediction**:
 ```bash
 jupyter notebook fruitqualitypredictionmodel.ipynb
 ```
-###📊 Results
+### 📊 Results
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/2a25e361-bb58-4550-96a4-9b6ff1dadfec" />
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/ca2f194c-20dd-493d-95e1-cdd030d2b796" />
 product_classification_model_model_performance
