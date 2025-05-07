@@ -19,21 +19,16 @@ By leveraging these techniques, we aim to enhance the efficiency and accuracy of
 ## 📁 Repository Structure
 
 📦 flipkartgridrobotics6.0-aabenuni
-
+```bash
 ├── brandandproductclassification.ipynb # Brand and product classification notebook
-
+├── fruitqualitypredictionmodel.ipynb # Jupyter notebook for fruit quality prediction model
 ├── ocr.py # OCR script for text extraction
-
 ├── downloadimages.py # Script to download images
-
 ├── datasetpqc/ # Product quality check dataset
-
 ├── Processed_image_fruits/ # Processed fruit product images
-
 ├── labelled/ # Labeled training images
-
 └── test_image.jpg # Sample image for testing
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -61,24 +56,30 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-##🧪 Usage
+###🧪 Usage
 
-##🔍 Brand and Product Classification
-1. Launch the Jupyter Notebook:
+###🔍 Brand and Product Classification
+1. **Launch the Jupyter Notebook**:
 ```bash
 jupyter notebook brandandproductclassification.ipynb
 ```
-2.Follow the steps in the notebook to:
+2. **Follow the steps in the notebook to**:
 Load and preprocess the dataset.
 Train the classification model.
 Evaluate the model's performance.
 ##📝 Optical Character Recognition (OCR)
-Run the OCR script using:
+**Run the OCR script using**:
 ```bash
 python ocr.py
 ```
 This will process test_image.jpg and output the extracted text.
-##📊 Results
+
+##🍏 Fruit Quality Prediction Model
+**Launch the Jupyter Notebook for fruit quality prediction**:
+```bash
+jupyter notebook fruitqualitypredictionmodel.ipynb
+```
+###📊 Results
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/2a25e361-bb58-4550-96a4-9b6ff1dadfec" />
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/ca2f194c-20dd-493d-95e1-cdd030d2b796" />
 product_classification_model_model_performance
