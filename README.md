@@ -81,11 +81,17 @@ jupyter notebook fruitqualitypredictionmodel.ipynb
 ```
 ### 📊 Results
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/2a25e361-bb58-4550-96a4-9b6ff1dadfec" />
+
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/ca2f194c-20dd-493d-95e1-cdd030d2b796" />
+
 product_classification_model_model_performance
 
+
+
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/4cee71cc-5abf-4586-9486-4b36e3743605" />
+
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/b9b332aa-2ba8-4d8c-85c4-fe906d2c521c" />
+
 Fruit_freshness_classification_model_performance
 
 
